@@ -29,12 +29,12 @@ session_start();
 			<input type="submit" name="btnLogin" value="Acessar">
 			
 			<h4>Você ainda não possui uma conta?</h4>
-			<a href="cadastrar.php">Crie grátis</a>
+			<a href="cadastrar.php">Crie sua conta</a>
 		
 		</form>
 		<br><br><br>
 		Usuário cadastrado no Banco de Dados<br>
-		Usuário: cesar@celke.com.br <br>
-		Senha: 123 <br>
+		Usuário: <br>
+		Senha:  <br>
 	</body>
-</html>
+</html> 
